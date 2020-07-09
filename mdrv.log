@@ -1,0 +1,18 @@
+Virtual User Script started at: 09.07.2020 14:35:33
+Starting action vuser_init.
+vuser_init.cs(33): Notify: Transaction "1_Login" started.
+vuser_init.cs(44): Notify: Transaction "1_Login" ended with a "Fail" status (Duration: 0,0056).
+vuser_init.cs(44): Notify: Transaction "1_Login" has 0 error message(s).
+vuser_init.cs(46): Notify: Transaction "2_Login" started.
+vuser_init.cs(115): Notify: Transaction "2_Login" ended with a "Fail" status (Duration: 9,0544).
+vuser_init.cs(115): Notify: Transaction "2_Login" has 0 error message(s).
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Starting action Action.
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
